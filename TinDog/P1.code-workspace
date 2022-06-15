@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\P1"
+		},
+		{
+			"path": "..\\css 1"
+		},
+		{
+			"path": "..\\..\\bacon html\\bacon.html"
+		},
+		{
+			"path": "..\\CSS-My site"
+		},
+		{
+			"path": "..\\bootstrap-installation"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TinDog"
+	}
+}
